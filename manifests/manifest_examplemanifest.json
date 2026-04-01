@@ -1,0 +1,299 @@
+{
+    "metadata": {
+        "scanned_path": "E:\\SSXPY\\integrity_monitor_final",
+        "algorithm": "sha256",
+        "timestamp": "2026-04-01_08-55-11",
+        "file_count": 46,
+        "total_size_bytes": 272731,
+        "extensions": [],
+        "incremental_cache": true,
+        "cache_file": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\hash_cache\\cache_52ce8bcf19689e159af37099241f3899cd90455764e6371cda06a39d6666e624.json",
+        "cache_hits": 45,
+        "fresh_hashed": 1,
+        "elapsed_seconds": 0.00500178337097168,
+        "excluded_dirs": [],
+        "include_patterns": [],
+        "exclude_patterns": [],
+        "manifest_name": "examplemanifest",
+        "saved_at": "2026-04-01 08:56:18",
+        "type": "manifest"
+    },
+    "results": [
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\.vs\\ProjectSettings.json",
+            "size": 37,
+            "mtime": 1775029077.232549,
+            "hash": "debe308c356f9f0c649ccd3bd0c9a2e921566eb38aaaad97de07e6a0ce9a1b33"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\.vs\\integrity_monitor_final.slnx\\v18\\.wsuo",
+            "size": 6656,
+            "mtime": 1775028847.236,
+            "hash": "4479cbe8cd341a675cdfd495f1dc347dff3b5573321b76597c13c1a4dc959f4f"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\.vs\\slnx.sqlite",
+            "size": 90112,
+            "mtime": 1775029607.424525,
+            "hash": "f80768a964d0836e1763ebdf4454b53b423c5f10ef14142676bd69321605404a"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\COMMIT_EDITMSG",
+            "size": 15,
+            "mtime": 1775028777.3177094,
+            "hash": "11996441588417a27af10cd7c5e6abdb570f18b1c00048fb39a2e0775279736c"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\FETCH_HEAD",
+            "size": 114,
+            "mtime": 1775028800.376789,
+            "hash": "cd0b42b9821f7d68d8c7ad19f63c0b03d59c1fdf36f6c1dd57846c6adf62ef40"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\HEAD",
+            "size": 21,
+            "mtime": 1775028776.4687433,
+            "hash": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\config",
+            "size": 352,
+            "mtime": 1775028799.0436592,
+            "hash": "ba9b9883ae9448a8d2e9a7a64a37f0933f92555b9542afcea436b981d20e1f4a"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\description",
+            "size": 130,
+            "mtime": 1775028776.9871461,
+            "hash": "df4b84a343dde32f172a895a636a0c15dde918904370e19e4298f35630a6f344"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\applypatch-msg.sample",
+            "size": 478,
+            "mtime": 1775028776.290763,
+            "hash": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\commit-msg.sample",
+            "size": 896,
+            "mtime": 1775028776.2997613,
+            "hash": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\fsmonitor-watchman.sample",
+            "size": 4726,
+            "mtime": 1775028776.3117604,
+            "hash": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\post-update.sample",
+            "size": 189,
+            "mtime": 1775028776.320763,
+            "hash": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\pre-applypatch.sample",
+            "size": 424,
+            "mtime": 1775028776.3287601,
+            "hash": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\pre-commit.sample",
+            "size": 1649,
+            "mtime": 1775028776.3387604,
+            "hash": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\pre-merge-commit.sample",
+            "size": 416,
+            "mtime": 1775028776.3457608,
+            "hash": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\pre-push.sample",
+            "size": 1374,
+            "mtime": 1775028776.3557682,
+            "hash": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\pre-rebase.sample",
+            "size": 4898,
+            "mtime": 1775028776.372226,
+            "hash": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\pre-receive.sample",
+            "size": 544,
+            "mtime": 1775028776.382228,
+            "hash": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\prepare-commit-msg.sample",
+            "size": 1492,
+            "mtime": 1775028776.3902264,
+            "hash": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\push-to-checkout.sample",
+            "size": 2783,
+            "mtime": 1775028776.401227,
+            "hash": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\sendemail-validate.sample",
+            "size": 2308,
+            "mtime": 1775028776.4092257,
+            "hash": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\hooks\\update.sample",
+            "size": 3650,
+            "mtime": 1775028776.4192276,
+            "hash": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\index",
+            "size": 217,
+            "mtime": 1775028777.3157115,
+            "hash": "acacb7f72dc58e61ef9a67119e718a3c656f3bca575a723b3cfefc5ca385f0a4"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\info\\exclude",
+            "size": 240,
+            "mtime": 1775028776.4212253,
+            "hash": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\logs\\HEAD",
+            "size": 174,
+            "mtime": 1775028777.341708,
+            "hash": "38dfd55ef7b6a19eb048848123b52b90a5150f6abebff614490a2cf83ec8cb6b"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\logs\\refs\\heads\\main",
+            "size": 174,
+            "mtime": 1775028777.342708,
+            "hash": "38dfd55ef7b6a19eb048848123b52b90a5150f6abebff614490a2cf83ec8cb6b"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\logs\\refs\\remotes\\origin\\HEAD",
+            "size": 153,
+            "mtime": 1775028801.8304265,
+            "hash": "b76a4469013d39d13d05a1a9f917cf5a1ec58d9ff36664a588edb4fa4492f345"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\logs\\refs\\remotes\\origin\\main",
+            "size": 156,
+            "mtime": 1775028799.059659,
+            "hash": "d003cf665242ac758a83d56c63c9f2fe157a7b72cfa09b355f91d66e94288562"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\objects\\1e\\459a8e82ae954887882c6c6f070822fed4fad1",
+            "size": 134,
+            "mtime": 1775028777.3317106,
+            "hash": "f318f4ea77dcc924600b3c261c5d1189b232cd36df609ce3d3f29e46376617d3"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\objects\\77\\ae56af352854c1d40a00396d80949a1600422b",
+            "size": 90,
+            "mtime": 1775028777.312708,
+            "hash": "0249423f7cd8247d386af61b938d162027e721df9fadf815628d2c2e105cba0a"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\objects\\df\\e0770424b2a19faf507a501ebfc23be8f54e7b",
+            "size": 76,
+            "mtime": 1775028777.2241898,
+            "hash": "bc2765c7012275e921f22fb94d53158122c693d0cf6426406d6aaf19848a43d7"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\objects\\f0\\1d110a1d836607b4e2f9e6e992172855471d4a",
+            "size": 656,
+            "mtime": 1775028777.227193,
+            "hash": "eac93f7a4bf0758ae86d43c599aaf4a0e086ebe9c126050ddfd0109504988b3e"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\refs\\heads\\main",
+            "size": 41,
+            "mtime": 1775028777.341708,
+            "hash": "b1e890852e0aaf1c32dc550f094035ba198cb2b2cc363201bb635a6e3a7d6fcc"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\refs\\remotes\\origin\\HEAD",
+            "size": 30,
+            "mtime": 1775028801.8224242,
+            "hash": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.git\\refs\\remotes\\origin\\main",
+            "size": 41,
+            "mtime": 1775028799.0546587,
+            "hash": "b1e890852e0aaf1c32dc550f094035ba198cb2b2cc363201bb635a6e3a7d6fcc"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\.gitattributes",
+            "size": 349,
+            "mtime": 1775028929.4266088,
+            "hash": "18677b584251c6b58b2af019686d4bec7515e4579ca47a66766d114675863f4d"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\CHANGELOG.md",
+            "size": 1885,
+            "mtime": 1775027195.4926336,
+            "hash": "ed4b103422923b14aeceb15e1eff53d1b05fb7eae17f1dac1d06fc5578edf66b"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\LICENSE",
+            "size": 1089,
+            "mtime": 1775028777.0441508,
+            "hash": "2b9193ac0d31dc6f225ef4f616c4e2a2b9c0665382e1f3b06aa9e6841ed28e24"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\README.md",
+            "size": 7842,
+            "mtime": 1775027195.514633,
+            "hash": "339de07eed66d618e2159ae1da616181313029cb24b9bddb98cbad4a7a11eb21"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\TESTING_GUIDE.md",
+            "size": 7708,
+            "mtime": 1775027195.501632,
+            "hash": "487ad3826920e30dfd7895e1accd461d735b51f10c018717a7163f473a958fae"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\baselines\\baseline_examplebaseline.json",
+            "size": 13296,
+            "mtime": 1775029607.2958057,
+            "hash": "4193bd6a4b53e34789c5edc8c6dc82d8d8be61d30836ea5b64c893c91023d399"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\hash_cache\\cache_52ce8bcf19689e159af37099241f3899cd90455764e6371cda06a39d6666e624.json",
+            "size": 11530,
+            "mtime": 1775030081.9073281,
+            "hash": "9f628f40cebd6c9100de4c54ed376597c7487e656b830afb42c20ec5d4415f19"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\integrity_monitor_final.py",
+            "size": 102653,
+            "mtime": 1775029220.6518645,
+            "hash": "e832d75f07a5b4a9ab508c194c015f193358aa0c1a1a954172a9fb21e46c1022"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\requirements.txt",
+            "size": 5,
+            "mtime": 1775027195.5166302,
+            "hash": "002bdffaaad1af8ecf7559f70e64ac8edd00c7c6b711fccd37f13e0c34459605"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\scan_profiles.json",
+            "size": 782,
+            "mtime": 1775029553.99069,
+            "hash": "6f26bcc396a88e0666c3270517d73bba8b77ca26663abd3630fbd1c2fb165696"
+        },
+        {
+            "path": "E:\\SSXPY\\integrity_monitor_final\\IntegrityMonitorv1.0.0\\ui_settings.json",
+            "size": 146,
+            "mtime": 1775029098.179352,
+            "hash": "d1e90784c568dc5547ddd97cd08c64b1303afb8f3e94f92616e5eb51da60dd13"
+        }
+    ]
+}

@@ -1,2 +1,34 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime/generated app data
+hash_exports/
+hash_cache/
+watch_logs/
+baselines/
+bookmarks/
+reports/
+manifests/
+
+# Local config/runtime files
+ui_settings.json
+scan_profiles.json
+integrity_monitor.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old

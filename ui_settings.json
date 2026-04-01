@@ -1,0 +1,7 @@
+{
+    "page_size": 50,
+    "clear_screen": true,
+    "pause_after_views": true,
+    "default_algorithm": "sha256",
+    "result_limit": 200
+}

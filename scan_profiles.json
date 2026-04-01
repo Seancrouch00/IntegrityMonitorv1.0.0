@@ -1,0 +1,28 @@
+{
+    "exampleprofile": {
+        "path": "E:\\SSXPY\\integrity_monitor_final",
+        "algorithm": "sha256",
+        "algorithm_preset": "sha256",
+        "extensions": [],
+        "exclude_dirs": [],
+        "include_patterns": [],
+        "exclude_patterns": [],
+        "tags": [],
+        "incremental": true,
+        "auto_export": false,
+        "watch_log": false,
+        "report_on_change_only": true,
+        "report_mode": "full",
+        "note": "",
+        "baseline_path": "",
+        "alert_thresholds": {
+            "added": 0,
+            "removed": 0,
+            "changed": 0
+        },
+        "last_run_at": "",
+        "last_run_file_count": 0,
+        "last_run_changed_count": 0,
+        "created": "2026-04-01 08:45:53"
+    }
+}
